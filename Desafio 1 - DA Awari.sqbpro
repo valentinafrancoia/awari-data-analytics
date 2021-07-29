@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/valentinafrançoia/OneDrive/Documentos/Data Analytics - Awari/olist_ecommerce ULTIMA VERSÃO.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1724"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,20:mainolist_orders_dataset"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="OfficeHours_1" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="45"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Tabela1_OfficeHours" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="55"/><column index="3" value="40"/><column index="4" value="73"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Tabela_países" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="49"/><column index="2" value="50"/><column index="3" value="53"/><column index="4" value="78"/><column index="5" value="57"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="exemplo2" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="240"/><column index="3" value="136"/><column index="4" value="43"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="exemplos" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="173"/><column index="2" value="43"/><column index="3" value="43"/><column index="4" value="240"/><column index="5" value="120"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="olist_customers_dataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="231"/><column index="2" value="231"/><column index="3" value="179"/><column index="4" value="153"/><column index="5" value="112"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="olist_geolocation_dataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="193"/><column index="2" value="121"/><column index="3" value="121"/><column index="4" value="115"/><column index="5" value="126"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="olist_order_items_dataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="231"/><column index="2" value="99"/><column index="3" value="231"/><column index="4" value="231"/><column index="5" value="133"/><column index="6" value="53"/><column index="7" value="95"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="olist_order_payments_dataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="231"/><column index="2" value="140"/><column index="3" value="103"/><column index="4" value="151"/><column index="5" value="108"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="olist_order_reviews_dataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="231"/><column index="2" value="231"/><column index="3" value="96"/><column index="4" value="159"/><column index="5" value="300"/><column index="6" value="152"/><column index="7" value="184"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="olist_orders_dataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="231"/><column index="2" value="231"/><column index="3" value="94"/><column index="4" value="188"/><column index="5" value="136"/><column index="6" value="202"/><column index="7" value="219"/><column index="8" value="215"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="olist_products_dataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="231"/><column index="2" value="297"/><column index="3" value="151"/><column index="4" value="188"/><column index="5" value="142"/><column index="6" value="127"/><column index="7" value="134"/><column index="8" value="134"/><column index="9" value="129"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="olist_sellers_dataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="231"/><column index="2" value="153"/><column index="3" value="240"/><column index="4" value="86"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="product_category_name_translation" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="297"/><column index="2" value="247"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1">-- 1. Selecione os dados da tabela de pagamentos onde só apareçam os tipos de pagamento “VOUCHER” e “BOLETO”.
+
+
+SELECT payment_type as tipo_pagamento, count (*) as quantidade
+FROM olist_order_payments_dataset
+WHERE payment_type = &quot;voucher&quot;
+or payment_type = &quot;boleto&quot; 
+GROUP by payment_type 
+ORDER by 2 DESC 
+
+
+
+-- 2. Retorne os campos da tabela de produtos e calcule o volume de cada produto em um novo campo.
+
+SELECT *,  count (*) as quantidade
+FROM olist_products_dataset
+GROUP by product_category_name 
+ORDER by quantidade DESC
+
+
+
+-- 3. Retorne somente os reviews que não tem comentários.
+
+
+SELECT review_comment_title, count (*) as total_comentarios
+FROM olist_order_reviews_dataset
+WHERE review_comment_title is NULL
+GROUP by review_comment_title 
+
+
+
+-- 4. Retorne pedidos que foram feitos somente no ano de 2017.
+
+
+SELECT order_id, order_purchase_timestamp 
+FROM olist_orders_dataset
+WHERE order_purchase_timestamp BETWEEN &quot;2017-01-01 00:00:00&quot; AND &quot;2017-12-31 00:00:00&quot;
+
+-- OU
+
+SELECT *
+FROM
+(
+SELECT order_id, substr (order_purchase_timestamp, 1, 4) as ano
+FROM olist_orders_dataset
+)
+WHERE ano = &quot;2017&quot;
+
+
+
+
+-- 5. Encontre os clientes do estado de SP e que não morem na cidade de São Paulo.
+
+SELECT customer_state as estado,
+customer_city as cidade, count (*) as quantidade_clientes
+FROM olist_customers_dataset
+WHERE cidade &lt;&gt; &quot;sao paulo&quot; 
+AND estado = &quot;SP&quot;
+GROUP by cidade 
+ORDER BY 2 
+
+
+
+
+
+
+
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
