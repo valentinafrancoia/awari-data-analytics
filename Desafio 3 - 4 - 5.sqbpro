@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/valentinafrançoia/OneDrive/Documentos/Data Analytics - Awari/olist_ecommerce.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="5098"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,10:mainteste_view"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="OfficeHours_1" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="45"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="SELLER_STATS" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="203"/><column index="2" value="268"/><column index="3" value="249"/><column index="4" value="203"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Tabela1_OfficeHours" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="40"/><column index="2" value="55"/><column index="3" value="40"/><column index="4" value="73"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="WDICountry" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="92"/><column index="2" value="300"/><column index="3" value="300"/><column index="4" value="300"/><column index="5" value="88"/><column index="6" value="261"/><column index="7" value="300"/><column index="8" value="160"/><column index="9" value="129"/><column index="10" value="74"/><column index="11" value="291"/><column index="12" value="213"/><column index="13" value="223"/><column index="14" value="117"/><column index="15" value="90"/><column index="16" value="300"/><column index="17" value="193"/><column index="18" value="107"/><column index="19" value="215"/><column index="20" value="197"/><column index="21" value="129"/><column index="22" value="212"/><column index="23" value="300"/><column index="24" value="300"/><column index="25" value="300"/><column index="26" value="300"/><column index="27" value="275"/><column index="28" value="300"/><column index="29" value="140"/><column index="30" value="116"/><column index="31" value="51"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="WDICountry-Series" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="92"/><column index="2" value="157"/><column index="3" value="300"/><column index="4" value="43"/></column_widths><filter_values><column index="1" value="BRA"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="WDIFootNote" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="92"/><column index="2" value="170"/><column index="3" value="50"/><column index="4" value="300"/><column index="5" value="43"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="exemplos" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="173"/><column index="2" value="43"/><column index="3" value="43"/><column index="4" value="240"/><column index="5" value="120"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="olist_customers_dataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="2" mode="0"/></sort><column_widths><column index="1" value="231"/><column index="2" value="231"/><column index="3" value="179"/><column index="4" value="153"/><column index="5" value="112"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="olist_geolocation_dataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="193"/><column index="2" value="121"/><column index="3" value="121"/><column index="4" value="115"/><column index="5" value="126"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="olist_order_items_dataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="231"/><column index="2" value="99"/><column index="3" value="231"/><column index="4" value="231"/><column index="5" value="133"/><column index="6" value="53"/><column index="7" value="95"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="olist_order_payments_dataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="4" mode="0"/></sort><column_widths><column index="1" value="231"/><column index="2" value="140"/><column index="3" value="103"/><column index="4" value="151"/><column index="5" value="108"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="olist_order_reviews_dataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="231"/><column index="2" value="231"/><column index="3" value="96"/><column index="4" value="159"/><column index="5" value="300"/><column index="6" value="152"/><column index="7" value="184"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="olist_orders_dataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="231"/><column index="2" value="231"/><column index="3" value="94"/><column index="4" value="188"/><column index="5" value="136"/><column index="6" value="202"/><column index="7" value="219"/><column index="8" value="215"/></column_widths><filter_values><column index="5" value="2017-10-10"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="olist_products_dataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="231"/><column index="2" value="297"/><column index="3" value="151"/><column index="4" value="188"/><column index="5" value="142"/><column index="6" value="127"/><column index="7" value="134"/><column index="8" value="134"/><column index="9" value="129"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="olist_sellers_dataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="231"/><column index="2" value="153"/><column index="3" value="240"/><column index="4" value="86"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="product_category_name_translation" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="297"/><column index="2" value="247"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="teste" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="89"/><column index="2" value="53"/><column index="3" value="42"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="teste2" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths/><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="teste_tabela" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="53"/><column index="2" value="167"/><column index="3" value="74"/><column index="4" value="119"/><column index="5" value="123"/><column index="6" value="40"/><column index="7" value="40"/><column index="8" value="90"/><column index="9" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="teste_view" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="53"/><column index="2" value="167"/><column index="3" value="119"/><column index="4" value="159"/><column index="5" value="123"/><column index="6" value="40"/><column index="7" value="40"/><column index="8" value="90"/><column index="9" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Desafio 3">-- Desafio 03
+
+/* 1. Crie uma query de todos os itens que foram vendidos, somente mostrando pedidos interestaduais. 
+Queremos saber quantos dias os fornecedores demoram para postar o produto, 
+se o produto chegou ou não dentro do prazo.*/
+
+-- olist_sellers_dataset
+-- olist_orders_dataset
+-- olist_customers_dataset 
+
+SELECT ord.order_ID,
+	cust.customer_state as &quot;Estado do cliente&quot;,
+	sel.seller_state &quot;Estado do vendedor&quot;,
+	ord.order_delivered_carrier_date,
+	ord.order_purchase_timestamp,
+	ord.order_estimated_delivery_date &quot;Prazo estimado de entrega&quot;,
+	ord.order_delivered_customer_date &quot;Data da entrega&quot;,
+CASE 
+when ord.order_estimated_delivery_date &gt;= ord.order_delivered_customer_date THEN &quot;Dentro do prazo&quot;
+ELSE &quot;Fora do prazo&quot; 
+end as prazo
+from
+&quot;olist_customers_dataset&quot; as cust
+INNER JOIN &quot;olist_orders_dataset&quot; as ord on cust.customer_id = ord.customer_id
+INNER JOIN &quot;olist_order_items_dataset&quot; as item on ord.order_id = item.order_id
+INNER JOIN &quot;olist_sellers_dataset&quot; as sel on item.seller_id = sel.seller_id
+where cust.customer_state &lt;&gt; sel.seller_state
+
+-- OR 
+
+SELECT
+	ord.order_ID,
+	cust.customer_state,
+	sel.seller_state,
+julianday(ord.order_delivered_carrier_date) - julianday(ord.order_purchase_timestamp) as Dias_Envio,
+julianday(ord.order_estimated_delivery_date) - julianday(ord.order_delivered_customer_date) as dias_prazo,
+CASE
+WHEN julianday(ord.order_estimated_delivery_date) - julianday(ord.order_delivered_customer_date) &gt;= 0 THEN 'Dentro do Prazo'
+WHEN julianday(ord.order_estimated_delivery_date) - julianday(ord.order_delivered_customer_date) &lt; 0 THEN 'Fora do Prazo'
+end as Prazo
+from
+&quot;olist_customers_dataset&quot; as cust
+INNER JOIN &quot;olist_orders_dataset&quot; as ord on cust.customer_id = ord.customer_id
+INNER JOIN &quot;olist_order_items_dataset&quot; as item on ord.order_id = item.order_id
+INNER JOIN &quot;olist_sellers_dataset&quot; as sel on item.seller_id = sel.seller_id
+where cust.customer_state &lt;&gt; sel.seller_state
+
+
+/* 2. Crie uma query SQL que me retorne todos os pagamentos do cliente, 
+com suas datas de aprovação, valor da compra e o valor total que o cliente já gastou em todas as suas compras, 
+me mostrando somente os clientes onde o valor da compra é diferente do valor total já gasto.*/
+
+
+SELECT o.customer_id as cliente,
+		o.order_id as pedido,
+		o.order_approved_at as data_aprovação,
+		p.payment_value as valor_compra,
+		round (sum (p.payment_value),2) valor_total, 
+		count (o.order_id) qtde_pedidos
+FROM&quot;olist_orders_dataset&quot; as o
+JOIN &quot;olist_order_payments_dataset&quot; as p on o.order_id = p.order_id
+GROUP by o.customer_id
+HAVING valor_total &lt;&gt; valor_compra 
+
+-------- OR
+
+SELECT id_unica_customer,
+	id_customer,
+	aprovacao,
+	valor_compra,
+	round (Total_gasto,2) total_gasto_arredondado,
+	Qtd_compras
+FROM 
+(
+SELECT
+c.customer_unique_id as id_unica_customer,
+c.customer_id as id_customer,
+o.order_approved_at as aprovacao,
+p.payment_value as valor_compra,
+sum (p.payment_value) over (PARTITION by c.customer_unique_id) as Total_gasto,
+count (p.payment_value) over (PARTITION by c.customer_unique_id) as Qtd_compras
+FROM olist_customers_dataset c
+JOIN olist_orders_dataset o on c.customer_id = o.customer_id
+JOIN olist_order_payments_dataset p on o.order_id = p.order_id
+)
+WHERE Total_gasto != valor_compra
+ORDER by Qtd_compras DESC
+
+
+
+/* 3. Queremos saber sobre as categorias válidas, suas somas totais dos valores de vendas, 
+um ranqueamento de maior valor para menor valor junto com o 
+somatório acumulado dos valores pela mesma regra do ranqueamento. */
+
+
+SELECT  categoria_valida, 
+	valor_total, 
+	sum (valor_total) OVER (ORDER by valor_total) as valor_acumulado,
+	rank () OVER (ORDER by valor_total DESC) &quot;ranqueamento&quot;	
+FROM 
+ (  
+ SELECT  p.product_category_name as categoria_valida,
+		round (sum (op.payment_value),2) as valor_total 
+ from &quot;olist_order_items_dataset&quot; as oi
+ JOIN &quot;olist_products_dataset&quot; as p on oi.product_id = p.product_id 
+ JOIN &quot;olist_order_payments_dataset&quot; as op on oi.order_id = op.order_id 
+ GROUP by product_category_name 
+ HAVING valor_total &lt;&gt; 252801.71
+) 
+ order by &quot;ranqueamento&quot; ASC
+</sql><sql name="Desafio 04">-- Desafio 04
+
+/* 1- Crie uma view (SELLER_STATS) para mostrar por fornecedor, 
+a quantidade de itens enviados, o tempo médio de postagem após a aprovação da compra, 
+a quantidade total de pedidos de cada Fornecedor, 
+note que trabalharemos na mesma query com 2 granularidades diferentes. */
+
+
+CREATE VIEW SELLER_STATS AS
+WITH ORDERS AS (
+SELECT *,
+CAST(julianday(&quot;order_delivered_carrier_date&quot;) - julianday(&quot;order_approved_at&quot;) AS INTEGER) AS DIAS_ATE_POSTAGEM
+FROM &quot;olist_orders_dataset&quot;)
+SELECT 
+	s.seller_id,
+	round (AVG(ORD.DIAS_ATE_POSTAGEM),3) AS MEDIA_TEMPO_POSTAGEM,
+	COUNT(1) AS QUANTIDADE_ITENS_POSTADOS,
+	count(distinct ord.order_id) as QUANTIDADE_PEDIDOS
+FROM ORDERS AS ORD
+LEFT JOIN &quot;olist_order_items_dataset&quot; AS oi ON ORD.ORDER_ID = oi.ORDER_ID
+LEFT JOIN &quot;olist_sellers_dataset&quot; AS s ON oi.SELLER_ID = s.SELLER_ID
+where s.seller_id is not null
+GROUP BY s.seller_id
+order by quantidade_itens_postados desc
+
+
+/* 2- Queremos dar um cupom de 10% do valor da última compra do cliente. 
+Porém os clientes elegíveis a este cupom devem ter feito uma compra anterior a última (A partir da data de aprovação do pedido)
+ que tenha sido maior ou igual o valor da última compra e 
+também queremos saber os valores dos cupons para cada um dos clientes elegíveis. */
+
+SELECT
+	customer_id as cliente,
+	valor_ultima_compra,
+	valor_ultima_compra*0.1 as valor_cupom,
+	valor_ultima_compra - (valor_ultima_compra*0.1) valor_compra_desconto
+FROM
+(
+SELECT
+	o.order_id,
+	o.customer_id,
+	order_approved_at,
+	lead(p.payment_value) OVER (PARTITION by customer_id ORDER by order_approved_at desc) as valor_penultima_compra,
+	p.payment_value as valor_ultima_compra,
+	row_number() OVER (PARTITION by customer_id ORDER by order_approved_at desc) as rank_ultima_compra
+	FROM olist_orders_dataset as o
+LEFT JOIN olist_order_payments_dataset as p on p.order_id = o.order_id 
+ORDER by o.customer_id, order_approved_at desc
+
+)
+WHERE rank_ultima_compra = 1
+AND valor_penultima_compra is not null
+AND valor_penultima_compra &gt;= valor_ultima_compra
+ORDER by valor_cupom desc
+</sql><sql name="Desafio 05">-- Desafio 05 
+
+
+-- Crie os índices apropriados para as tabelas do nosso modelo de dados. Para melhorar a performance
+
+
+CREATE INDEX teste_index
+on olist_order_payments_dataset (order_id)
+
+-- E
+
+CREATE TABLE teste_tabela as 
+SELECT
+	estado,
+	cidade,
+	valor,
+	sum (valor) OVER (PARTITION by estado ORDER by valor DESC) as soma_acumulada,
+	avg (valor) OVER (PARTITION by estado) as média_acumulada,
+	count () OVER (PARTITION by estado) as qtd,
+	rank () OVER (ORDER by valor DESC) as &quot;rank&quot;,
+	row_number () OVER (ORDER by valor) as &quot;row_number&quot;,
+	ntile (4) OVER (PARTITION by estado ORDER by valor) as &quot;ntile&quot; 
+FROM 
+(
+	SELECT 
+		cust.customer_state as estado,
+		cust.customer_city as cidade,
+		round (sum (payment_value),2) as valor
+		FROM olist_order_payments_dataset as pagamento
+		LEFT JOIN &quot;olist_orders_dataset&quot; as ord on pagamento.order_id = ord.order_id
+		LEFT JOIN olist_customers_dataset as cust on ord.customer_id = cust.customer_id
+		GROUP by cust.customer_state, cust.customer_city
+	)
+ORDER by &quot;rank&quot; ASC
+
+
+CREATE INDEX INDEX_teste_tabela
+on teste_tabela (&quot;row_number&quot;)
+
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
